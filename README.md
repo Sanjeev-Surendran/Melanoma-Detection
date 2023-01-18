@@ -26,7 +26,6 @@ The trained model is provided as a solution, which can evaluate images and alert
 
 ### Project Contents
 * **Melanoma Detection.ipynb** - Jupyter Notebook for Melanoma Detection using CNN (Language : Python)
-* **model.h5** - CNN Trained Model - can be used for prediction of skin cancer
 * **README.md** - Readme file
 
 
